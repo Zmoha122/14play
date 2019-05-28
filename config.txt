@@ -1,0 +1,6 @@
+owner=579808920873467904
+prefix=14
+game=Type 14help
+stayinchannel=true
+songinstatus=false
+token=NTgyNzU5MDE2ODAzODYwNTA0.XOyxCQ.sXDJ4_Kr74QkII_XYHbRcJ2jtZA
